@@ -46,8 +46,8 @@ function Projects() {
               isBlog={false}
               title="Multi Sphere – Insurance Policy Comparison App "
               description="Built an insurance web app to compare existing and new health and life insurance policies. Built app with help of React, Typescript, Material-UI, and TailwindCSS to enhance the design of an application"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"
+              ghLink="https://github.com/dev-faizal/Multisphere.git"
+              demoLink=""
             />
           </Col>
 
