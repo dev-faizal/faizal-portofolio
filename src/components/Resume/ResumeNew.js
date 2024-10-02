@@ -35,7 +35,7 @@ function ResumeNew() {
           <Document file={pdf} className="d-flex justify-content-center">
             <Page pageNumber={1} scale={width > 786 ? 1 : 0.4} />
               <span className="mx-2"></span>
-            <Page pageNumber={2} scale={width > 786 ? 1 : 0.4} />
+            {/* <Page pageNumber={2} scale={width > 786 ? 1 : 0.4} /> */}
           </Document>
         </Row>
 
